@@ -1,7 +1,7 @@
 # practise999
 hello
-1
-2
+0
+p
 9
 8
 7
